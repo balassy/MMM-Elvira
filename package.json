@@ -1,0 +1,39 @@
+{
+  "name": "MMM-Elvira",
+  "version": "1.0.0",
+  "description": "MagicMirror module that displays Hungarian public train information from Elvira (MAV-Start).",
+  "main": "MMM-Elvira.js",
+  "author": "György Balássy",
+  "license": "MIT",
+  "scripts": {
+    "lint": "npm run jsonlint & npm run eslint & npm run markdownlint & npm run stylelint",
+    "eslint": "eslint *.js",
+    "jsonlint": "jsonlint --quiet --comments .",
+    "markdownlint": "markdownlint *.md",
+    "stylelint": "stylelint *.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/balassy/MMM-Elvira"
+  },
+  "keywords": [
+    "MagicMirror",
+    "module",
+    "Elvira",
+    "MÁV",
+    "MÁV-Start",
+    "transport",
+    "public-transport",
+    "train",
+    "Budapest"
+  ],
+  "devDependencies": {
+    "@prantlf/jsonlint": "^10.2.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2",
+    "markdownlint-cli": "^0.28.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^22.0.0"
+  }
+}

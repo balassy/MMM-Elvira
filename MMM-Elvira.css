@@ -1,0 +1,36 @@
+.MMM-Elvira table {
+  width: auto !important;
+}
+
+.MMM-Elvira .clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.MMM-Elvira .symbol {
+  margin-right: 10px;
+}
+
+.MMM-Elvira .relative-time {
+  text-align: right;
+  white-space: nowrap;
+}
+
+.MMM-Elvira .absolute-time {
+  padding-left: 10px;
+  white-space: nowrap;
+}
+
+.MMM-Elvira .delayed {
+  color: #ffcf42;
+}
+
+.MMM-Elvira .delayed-original-time {
+  text-decoration: line-through;
+}
+
+.MMM-Elvira .train {
+  padding-left: 10px;
+  white-space: nowrap;
+}
