@@ -4,6 +4,7 @@ This is a module for the [MagicMirror²](https://github.com/MichMich/MagicMirror
 
 ## Features
 
+![](./doc/screenshot.png)
 
 This module is capable to display only a single station and route data. If you would like to see the departure times of more stations and routes on your mirror, add this module multiple times.
 
