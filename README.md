@@ -112,6 +112,12 @@ npm run lint
 
 Your feedback is more than welcome, please send your suggestions, feature requests or bug reports as [GitHub issues](https://github.com/balassy/MMM-Elvira/issues).
 
+## Acknowledgement
+
+Many thanks to:
+- [Michael Teeuw](https://github.com/MichMich) for creating and maintaining the [MagicMirror²](https://github.com/MichMich/MagicMirror/) project fully open source.
+- [Bálint Berente](https://github.com/berenteb) for reverse engineering and publishing information about the [MÁV API](https://github.com/berenteb/mav-api).
+
 ## About the author
 
 This project is created and maintaned by [György Balássy](https://www.linkedin.com/in/balassy).
