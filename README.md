@@ -6,6 +6,10 @@ This is a module for the [MagicMirror²](https://github.com/MichMich/MagicMirror
 
 ![](./doc/screenshot.png)
 
+The module also shows the delays of the next trains highlighted:
+
+![](./doc/screenshot-delayed.png)
+
 This module is capable to display only a single station and route data. If you would like to see the departure times of more stations and routes on your mirror, add this module multiple times.
 
 For updates, please check the [CHANGELOG](https://github.com/balassy/MMM-Elvira/blob/master/CHANGELOG.md).
