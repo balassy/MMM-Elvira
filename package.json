@@ -1,6 +1,6 @@
 {
   "name": "MMM-Elvira",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MagicMirror module that displays Hungarian public train information from Elvira (MAV-Start).",
   "main": "MMM-Elvira.js",
   "author": "György Balássy",

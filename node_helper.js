@@ -53,7 +53,7 @@ module.exports = NodeHelper.create({
           {
             passengerCount: 1,
             passengerId: 0,
-            customerTypeKey: 'HU_44_026-065',
+            customerTypeKey: 'HU_44_025-065',
             customerDiscountsKeys: []
           }
         ],
