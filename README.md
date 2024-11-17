@@ -60,6 +60,12 @@ var config = {
 }
 ```
 
+5. If you use a newer version of MagicMirror you may receive the following error when you try to run the module: `Cannot find module 'request'`. This is because the `request` NPM package is no longer included in the default installation of MagicMirror. In that case run the following command in the `MMM-Elvira` folder to install it manually then restart MagicMirror:
+
+```bash
+npm install request
+```
+
 ## Configuration options
 
 | Option                 | Description
